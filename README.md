@@ -10,10 +10,10 @@
 
 
 ✅ Features
-Async payment processing via Celery
-Redis-based job queueing
-Clean architecture with app/api, app/tasks, app/db structure
-Easy to extend for other microservices
+- Async payment processing via Celery
+- Redis-based job queueing
+- Clean architecture with app/api, app/tasks, app/db structure
+- Easy to extend for other microservices
 
 This is a production-ready microservice for handling asynchronous UPI-style payments using **FastAPI**, **Redis**, **Celery**, and **PostgreSQL**.
 It supports:
