@@ -1,12 +1,13 @@
 # Async-Payment-Microservice
 
-📦 Tech Stack
-FastAPI – modern Python web framework
-Celery – distributed task queue
-Redis – in-memory message broker
-PostgreSQL – reliable transaction storage
-SQLAlchemy – ORM
-WebSockets (optional) – real-time payment status (coming soon)
+## 📦 Tech Stack
+- **FastAPI** – modern Python web framework  
+- **Celery** – distributed task queue  
+- **Redis** – in-memory message broker  
+- **PostgreSQL** – reliable transaction storage  
+- **SQLAlchemy** – ORM  
+- **WebSockets (optional)** – real-time payment status *(coming soon)*
+
 
 ✅ Features
 Async payment processing via Celery
