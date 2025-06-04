@@ -56,7 +56,7 @@ sudo service redis-server start
 
 Verify:
 redis-cli ping
-# Output: PONG
+Output: PONG
 
 ### 4.Running Celery Worker
 celery -A app.core.celery_app worker --loglevel=info
